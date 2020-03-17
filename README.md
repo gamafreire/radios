@@ -9,4 +9,6 @@ Não esquecer fazer chmod +x radios.sh
 
 Para correr basta ./radios.sh
 
-e seleccionar (A, S, ou R) conforme rádio que quer oiuvir.
+e seleccionar (A, S, ou R) conforme rádio que quer ouvir.
+
+![](im2.png)
