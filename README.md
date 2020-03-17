@@ -1,6 +1,8 @@
 # radios
 Ouvir os meus rádios preferidos
 
+![](im1.png)
+
 Foi feito para macos com mpv instalado (brew install mpv).
 
 Não esquecer fazer chmod +x radios.sh
