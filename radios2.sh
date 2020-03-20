@@ -33,7 +33,7 @@ case $name in
 		;;
 esac
 
-'''
+: '
 echo "
 #######################################################################
 #          Programa para ouvir rádios                                 #
@@ -54,4 +54,4 @@ elif [ "$name" = "R" ] ; then
         mpv http://freecom.vtuner.com/pls/pls79879.m3u
 
 fi
-'''
+'
