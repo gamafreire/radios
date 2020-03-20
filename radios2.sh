@@ -34,6 +34,12 @@ case $name in
 esac
 
 '''
+echo "
+#######################################################################
+#          Programa para ouvir rádios                                 #
+#     © Filipe Gama Freire 2020                                       #
+#######################################################################
+"
 if [ "$name" = "S" ] ; then
 	echo -e "\033[1;34m Vamos ouvir Stellar Attraction  \033[0m"
 	mpv http://freecom.vtuner.com/pls/pls24913.m3u
